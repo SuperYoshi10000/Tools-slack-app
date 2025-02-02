@@ -127,6 +127,8 @@ app.command("/listmembers", async ({command, client, context, logger, ack, say})
     if (raw) {
         let text = Object.values(matched).join("\r\n");
         say({text, })
+        //TODO Make raw text only visible to you
+        //TODO Make formatted text work at all
     }
 });
 
