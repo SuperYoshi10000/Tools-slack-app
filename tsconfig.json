@@ -1,14 +1,5 @@
-<<<<<<< HEAD
 {
     "compilerOptions": {
         "esModuleInterop": true,
-        
     }
-=======
-{
-    "compilerOptions": {
-        "esModuleInterop": true,
-        
-    }
->>>>>>> 7485003502804a8b4b3d7a0e9075b52980d970d8
 }
